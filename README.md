@@ -1,4 +1,4 @@
-# shuqi
+# story
 
 > A Vue.js project
 
